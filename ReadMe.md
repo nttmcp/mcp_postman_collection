@@ -17,11 +17,13 @@ Download Postman Collection and Environment variable (Cloud Control REST API.pos
 - Load Cloud Control Environment variable in Postman. Fill in CloudControl User ID (cc_user) and CloudControl Password (cc_pass) variables. 
 - Optionally fill in OrgId variable. If not available, Use "Get OrgID" API call to obtain OrgID from "0.Getting Started" folder and Set the OrgID variable with the value obtained.
 
+\***Note**: The Environment Variable file has sample variable names pre-populated for various objects like Networks, Servers, Snapshots, DRS, etc. These variables names could be consumed as required, and new variable names could be created as per user requirement. 
+
 ## Useful Documentation Links
 
 MCP Cloud Control general Documentation [CloudControl Documentation](https://docs.mcp-services.net)
 
-MCP CloudControl Vendor REST API Documentation [API Documentation](https://docs.mcp-services.net/display/CCD/Vendor+API+Documentation+Downloads)
+MCP CloudControl Vendor REST API Documentation [API Documentation](https://docs.mcp-services.net/display/CCD/API+2+-+Documentation+Downloads)
 
 How to use Postman for Cloud Control Postman Collection [How to Documentation]()
 
